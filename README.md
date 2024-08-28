@@ -3,6 +3,8 @@ Enter the number:3
 
 
 Given number is Positive or Negative or Zero
+
+
 Positive
 
 do While loop:3 2 1 
