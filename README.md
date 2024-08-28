@@ -2,7 +2,7 @@ OUTPUT:
 Enter the number:3
 
 
-Given number is Positive or Negative or Zero
+Given number is Positive or Negative or Zero:
 
 
 Positive
